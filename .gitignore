@@ -1,3 +1,6 @@
+# Ignore D-Fire Dataset
+data/dfire-dataset
+
 # Byte-compiled / optimized / DLL files
 **/__pycache__/
 *.py[cod]
